@@ -1,6 +1,9 @@
 
 # Airbnb Data Analysis Project
 
+![Survey Dashboard Overview](Captura.png)
+
+
 ## Overview
 This project uses **Tableau** to analyze Airbnb data, focusing on different aspects such as geographical distribution, price analysis, and bed availability across various zip codes. The aim is to identify trends, provide insights on the most profitable locations, and visualize the data through an interactive dashboard.
 
