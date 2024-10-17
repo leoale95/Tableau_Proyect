@@ -1,7 +1,7 @@
 
 # Airbnb Data Analysis Project
 
-![Survey Dashboard Overview](Captura.png)
+![Survey Dashboard Overview](Captura.PNG)
 
 
 ## Overview
